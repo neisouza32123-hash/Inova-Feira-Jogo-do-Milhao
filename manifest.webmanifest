@@ -1,0 +1,17 @@
+{
+  "name": "Oxe, que inovação é essa? — Inova Feira",
+  "short_name": "Oxe Inovação",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff6db",
+  "theme_color": "#e9a629",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
